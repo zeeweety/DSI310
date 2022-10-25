@@ -6,3 +6,4 @@ selenium==4.2.0
 scrapy==1.5.1
 beautifulsoup4==4.11.1
 json
+dsmlibrary==1.0.16
